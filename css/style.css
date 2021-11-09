@@ -169,6 +169,7 @@ div#sea {
   width: 100%;*/
   height: auto;
   transform: translateY(10px) rotate(-20deg);
+  z-index: 1;
 }
 .icons .row {
   width: 100%;
@@ -460,7 +461,7 @@ div.img {
   top: 15%;
   left: 10%;
   position: absolute;
-  z-index: 1;
+
 
 }
 img {
